@@ -1,7 +1,19 @@
 <template name="postItem">
   <div class="post">
     <div class="post-content">
+    <!-- 标题以及标题下的小字 -->
       <h3><a href="{{url}}">{{title}}</a><span>{{domain}}</span></h3>
+      <p>
+        submitted by {{author}}
+
+
+      
+        <a href="{{pathFor 'postPage'}}">{{commentsCount}} comments</a>
+        <!-- 编辑按钮 -->
+        {{#if ownPost}}<a href="{{pathFor 'postEdit'}}">Edit</a>{{/if}}
+      </p> 
     </div>
+    <!-- 详情按钮 -->
+    <a href="{{pathFor 'postPage'}}" class="discuss btn btn-default"> Discuss</a>
   </div>
 </template>

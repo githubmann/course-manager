@@ -1,3 +1,11 @@
+*
+!*/
+!lib/collections/course-manage/*
+!client/template/course/*
+!client/template/homework/*
+!client/template/task/*
+!lib/router.js
+!server/publications.js
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
