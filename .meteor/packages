@@ -37,3 +37,8 @@ cfs:gridfs@0.0.33
 meteoric:autoform-ionic
 yogiben:autoform-file@0.4.2
 q42:autoform-markdown
+cfs:filesystem
+reywood:publish-composite
+cfs:ui
+meteorhacks:npm
+npm-container

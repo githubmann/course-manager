@@ -23,6 +23,7 @@ cfs:collection@0.5.5
 cfs:collection-filters@0.2.4
 cfs:data-man@0.0.6
 cfs:file@0.1.17
+cfs:filesystem@0.1.2
 cfs:gridfs@0.0.33
 cfs:http-methods@0.0.32
 cfs:http-publish@0.0.13
@@ -78,6 +79,8 @@ lyuyea:md-editor@0.4.0
 markdown@1.0.5
 meteor@1.1.10
 meteor-base@1.0.1
+meteorhacks:async@1.0.0
+meteorhacks:npm@1.5.0
 meteoric:autoform-ionic@0.1.6
 minifiers@1.1.7
 minimongo@1.0.10
@@ -91,6 +94,7 @@ mpowaga:jquery-fileupload@9.11.2
 mpowaga:jquery-ui-widget@1.11.4
 msavin:mongol@0.5.5
 npm-bcrypt@0.7.8_2
+npm-container@1.2.0
 npm-mongo@1.4.39_1
 observe-sequence@1.0.7
 ordered-dict@1.0.4
@@ -104,6 +108,7 @@ reactive-dict@1.1.3
 reactive-var@1.0.6
 reload@1.1.4
 retry@1.0.4
+reywood:publish-composite@1.4.2
 routepolicy@1.0.6
 sacha:spin@2.3.1
 service-configuration@1.0.5
